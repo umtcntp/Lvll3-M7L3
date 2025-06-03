@@ -28,4 +28,4 @@ pytest
 
 ## ✍️ Yazar
 
-Kodland - Y
+Kodland - YY
