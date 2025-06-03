@@ -30,4 +30,17 @@ pytest
 
 Kodland - YY
 
+
 # Merhaba ben furkan çınar
+
+
+# Merhaba ben Ahmet Furkan
+
+
+
+# Merhaba ben ihsan
+
+# merhaba ben mirza
+
+
+
