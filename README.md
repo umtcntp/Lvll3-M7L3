@@ -4,6 +4,7 @@ Bu uygulama, belirlenen karakter sayısına göre rastgele şifreler üretmek i�
 
 ## Özellikler
 
+
 - Belirtilen uzunlukta rastgele şifre üretimi
 - Şifre oluştururken harfler, sayılar ve özel karakterler kullanılır
 - Basit ve anlaşılır bir konsol uygulamasıdır
