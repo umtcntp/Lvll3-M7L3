@@ -19,3 +19,13 @@ def test_password_uniqueness():
     password1 = generate_password(30)
     password2 = generate_password(30)
     assert password1 != password2
+    
+def test_password_strength():
+    """Şifrenin yeterince güçlü olup olmadığını test eder"""
+    password = generate_password(20)
+    assert any(char.islower() for char in password), "Şifre en az bir küçük harf içermelidir"
+    assert any(char.isupper() for char in password), "Şifre en az bir büyük harf içermelidir"
+    assert any(char.isdigit() for char in password), "Şifre en az bir rakam içermelidir"
+    assert any(char in string.punctuation for char in password), "Şifre en az bir özel karakter içermelidir"
+
+
