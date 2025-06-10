@@ -2,7 +2,7 @@
 
 Bu uygulama, belirlenen karakter sayısına göre rastgele şifreler üretmek için tasarlanmıştır. Şifreler büyük ve küçük harfler, sayılar ve özel karakterler içerebilir.
 
-## Özelliklerr
+## Özellikler
 
 - Belirtilen uzunlukta rastgele şifre üretimi
 - Şifre oluştururken harfler, sayılar ve özel karakterler kullanılır
@@ -14,39 +14,23 @@ Programı çalıştırmak için bilgisayarınızda Python 3.6 veya daha üst bir
 
 ## Testleri Çalıştırma
 
-Burada yazılmış testler pytest kütüphanesini kullanır. Yüklemek için şu komutu yazın:
+Bu projede yazılmış testler pytest kütüphanesini kullanır. Yüklemek için:
 
 ```bash
 pip install pytest
 ```
 
-Daha sonra testleri proje dizininin kök klasöründen şu komutla çalıştırabilirsiniz:
+Testleri çalıştırmak için:
 
 ```bash
 pytest
 ```
 
-## ✍️ Yazar
+## Yazarlar
 
-Kodland - YY
-
-
-# Merhaba, ben Yusuf.
-
-
-# Merhaba ben furkan çınar
-
-
-# Merhaba ben Ahmet Furkan
-
-
-
-# Merhaba ben ihsan
-
-# merhaba ben mirza
-
-
-
-
-
-# Merhaba ben Umut
+- Yusuf
+- Furkan Çınar
+- Ahmet Furkan
+- İhsan
+- Mirza
+- Umut
